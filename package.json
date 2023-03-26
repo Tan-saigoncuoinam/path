@@ -1,0 +1,10 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "json package",
+  "main": "index.js",
+  "repository": "https://github.com/Tan-saigoncuoinam/path",
+  "author": "Tan Nguyen",
+  "license": "MIT",
+  "private": false
+}
